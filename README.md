@@ -45,6 +45,10 @@ https://mirror.sjtu.edu.cn/pypi/web/simple/
   ```
   pip show -f <库名>
   ```
+  查看某个库的版本信息等
+  ```
+  pip show <库名>
+  ```
 * pip导出python依赖包<br>
   1.导出所有已安装的依赖至文件requirements.txt中
   ```
